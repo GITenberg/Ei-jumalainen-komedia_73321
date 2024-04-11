@@ -1,0 +1,41 @@
+_repo: Ei-jumalainen-komedia_73321
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kalima, Jalo Lahja
+    birthdate: 1884
+    deathdate: 1952
+    gutenberg_agent_id: '45733'
+    url: http://www.gutenberg.org/2009/agents/45733
+    wikipedia: https://fi.wikipedia.org/wiki/Jalo_Kalima
+creator:
+  author:
+    agent_name: Krasiński, Zygmunt, hrabia
+    aliases:
+    - Zygmunt Krasiñski
+    - Krasinski, Zygmunt
+    birthdate: 1812
+    deathdate: 1859
+    gutenberg_agent_id: '32980'
+    url: http://www.gutenberg.org/2009/agents/32980
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Zygmunt_Krasi%C5%84ski
+    - http://pl.wikipedia.org/wiki/Zygmunt_Krasi%C5%84ski
+description: ''
+gutenberg_issued: '2024-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73321'
+language: fi
+pgterms:marc905: 20240310004028krasiski
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ei-jumalainen komedia
+url: http://www.gutenberg.org/ebooks/73321
